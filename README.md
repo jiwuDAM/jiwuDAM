@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Here are some ideas to get you started:
+
 Data Asset Management (DAM) conserves, curates and exploits valuable enterprise Data Assets – Enterprise Data along with their associated Services.  Data Assets are now widely regarded as important in driving business value.
 
 Just as other tangible assets are monetised, Enterprise Data and Services have a fiscal value on the balance sheet.  Business Value is extracted from Enterprise Data and Services through Data Asset Management – driving Data Innovation facilitating the launch of new data products and services in the Data Economy – and Competitiveness Achievement Planning (CAP) which delivers enhanced operational performance and accelerated business results.
