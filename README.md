@@ -55,7 +55,9 @@ Security grading of digital assets and providing relevant protection mechanisms 
 
 ### Digital asset management 
 
-### Digital asset check-in ###Digital asset check-out
+### Digital asset check-in 
+
+### Digital asset check-out
 
 ### Digital Asset Application
 
