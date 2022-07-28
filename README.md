@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README.md)
 [![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README_CN.md)
 
-[![Open in GeekCode](https://geekcode.cloud/button/open-in-geekcode.svg)](https://geekcode.cloud/#jiwuDAM)
+[![Open in GeekCode](https://geekcode.cloud/button/open-in-geekcode.svg)](https://github.com/jiwuDAM/jiwuDAM)
 
 
 
