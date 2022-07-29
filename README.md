@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 
-Digital Asset Management (DAM) conserves, curates and exploits valuable enterprise Digital Assets – Enterprise Digital along with their associated Services.  Digital Assets are now widely regarded as important in driving business value.
+We made a digital asset management for personal. So this software named PDAM.
 
-# Enterprise Digital Asset Management
+# Personal Digital Asset Management
 
 In addition to data assets, digital assets also exist in enterprises, and at present, enterprises have a deep knowledge and demand for data management. At the same time, due to the split management mode of digital assets and data assets, digital assets cannot be jointly analyzed operationally through big data, which makes the value of digital assets undervalued.
 
